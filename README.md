@@ -35,3 +35,14 @@ YTD Reviews 19.42M
 - **Camera** and **Men Clothes** together contribute 39% of sales
 - **Mobile & Accessories** has the lowest share at 1.80%
 
+
+🏆 Top Performers
+
+Top 5 Products by YTD Sales
+
+Product Sales ($K)
+Nikon Wide Angle Lens $34K
+Atomos Ninja Monitor $28K
+Solid Gear Boots $27K
+Canal Toys Set $22K
+Vince Camuto Loafers $19K
