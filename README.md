@@ -48,3 +48,30 @@ YTD Reviews 19.42M
 | **4** | Canal Toys Set | **$22K** | 🧸 Toys |
 | **5** | Vince Camuto Loafers | **$19K** | 👟 Men Shoes |
 
+## 🏆 Top Performers
+
+### Top 5 Products by YTD Sales
+
+| Rank | Product | Sales ($K) | Category |
+|:----:|---------|:----------:|----------|
+| **#1** | Nikon Wide Angle Lens | **$34K** | 📷 Camera |
+| **#2** | Atomos Ninja Monitor | **$28K** | 📷 Camera |
+| **#3** | Solid Gear Boots | **$27K** | 👟 Men Shoes |
+| **#4** | Canal Toys Set | **$22K** | 🧸 Toys |
+| **#5** | Vince Camuto Loafers | **$19K** | 👟 Men Shoes |
+
+### Top 5 Products by Customer Reviews
+
+| Rank | Product | Reviews | Category |
+|:----:|---------|:-------:|----------|
+| **#1** | SanDisk 1TB SSD | **0.40M** | 📷 Camera |
+| **#2** | SanDisk 128GB Card | **0.34M** | 📷 Camera |
+| **#3** | SanDisk 4TB External | **0.23M** | 📷 Camera |
+| **#4** | JTech Screen Protector | **0.16M** | 📱 Mobile |
+| **#5** | WOLVERINE Boots | **0.14M** | 👟 Men Shoes |
+
+### Key Insights
+- **Nikon** and **SanDisk** are the dominant brands
+- Camera category leads in both sales and reviews
+- Men Shoes shows strong sales performance
+- Storage products generate maximum customer engagement
