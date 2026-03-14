@@ -153,8 +153,4 @@ Contains 27 records of Men Shoes products with the following fields:
 | Total Products Sold | 27.75K units |
 | Total Reviews | 19.42 Million |
 
----
 
-## 🛠️ Technical Architecture
-
-### Folder Structure
