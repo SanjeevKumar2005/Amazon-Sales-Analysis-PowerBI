@@ -153,3 +153,15 @@ Contains 27 records of Men Shoes products with the following fields:
 | Total Reviews | 19.42 Million |
 
 
+
+### DAX Measures Used
+```dax
+YTD Sales = TOTALYTD(SUM(Sales[Amount]), 'Date'[Date])
+
+QTD Sales = TOTALQTD(SUM(Sales[Amount]), 'Date'[Date])
+
+% Category Sales = 
+DIVIDE(
+    SUM(Sales[Amount]),
+    CALCULATE(SUM(Sales[Amount]), ALLSELECTED(Products[Category]))
+)
