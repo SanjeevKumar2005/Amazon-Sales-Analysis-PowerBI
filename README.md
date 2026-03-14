@@ -42,9 +42,9 @@ YTD Reviews 19.42M
 
 | Rank | Product | Sales ($K) | Category |
 |:----:|---------|:----------:|----------|
-| **#1** | Nikon Wide Angle Lens | **$34K** | 📷 Camera |
-| **#2** | Atomos Ninja Monitor | **$28K** | 📷 Camera |
-| **#3** | Solid Gear Boots | **$27K** | 👟 Men Shoes |
-| **#4** | Canal Toys Set | **$22K** | 🧸 Toys |
-| **#5** | Vince Camuto Loafers | **$19K** | 👟 Men Shoes |
+| **1** | Nikon Wide Angle Lens | **$34K** | 📷 Camera |
+| **2** | Atomos Ninja Monitor | **$28K** | 📷 Camera |
+| **3** | Solid Gear Boots | **$27K** | 👟 Men Shoes |
+| **4** | Canal Toys Set | **$22K** | 🧸 Toys |
+| **5** | Vince Camuto Loafers | **$19K** | 👟 Men Shoes |
 
