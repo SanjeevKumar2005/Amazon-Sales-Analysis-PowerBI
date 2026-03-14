@@ -240,3 +240,48 @@ Contains 27 records of Men Shoes products with the following fields:
 | 🔄 | Active filter |
 
 
+🎨 Dashboard Features
+
+Interactive Elements
+
+· Slicers: Product Category, Quarter
+· Filters: Date range, Price range, Review count
+· Drill-through: Product details, Category breakdown
+· Tooltips: Additional metrics on hover
+
+Visualizations
+
+1. Sales by Month (Bar Chart)
+2. Sales by Week (Line Chart)
+3. Category Performance (Matrix)
+4. Top Products (Bar Charts)
+5. KPI Cards (4 Key Metrics)
+
+
+💻 How to Use
+
+Prerequisites
+
+· Power BI Desktop (Free download from Microsoft Store)
+· Basic understanding of data analysis
+
+
+
+🔄 Future Enhancements
+
+· Real-time data integration with Amazon API
+· Predictive analytics for sales forecasting
+· Customer segmentation analysis
+· Competitor price tracking
+· Mobile-responsive dashboard version
+· Automated email reports
+
+🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+1. Fork the repository
+2. Create your feature branch (git checkout -b feature/AmazingFeature)
+3. Commit your changes (git commit -m 'Add some AmazingFeature')
+4. Push to the branch (git push origin feature/AmazingFeature)
+5. Open a Pull Request
