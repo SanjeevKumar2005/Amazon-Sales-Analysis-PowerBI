@@ -153,7 +153,44 @@ Contains 27 records of Men Shoes products with the following fields:
 | Total Reviews | 19.42 Million |
 
 
+## 📅 Monthly & Weekly Sales Analysis
 
-    SUM(Sales[Amount]),
-    CALCULATE(SUM(Sales[Amount]), ALLSELECTED(Products[Category]))
-)
+### 📊 Monthly Sales Overview
+
+| Month | Sales (USD) | Performance |
+|-------|:-----------:|:-----------:|
+| January | $300,000 | 🟡 Moderate |
+| February | $200,000 | 🔴 Low |
+| March | $500,000 | 🟢 Good |
+| April | $500,000 | 🟢 Good |
+| May | $600,000 | 🟢 Good |
+| June | $600,000 | 🟢 Good |
+| July | $500,000 | 🟢 Good |
+| August | $500,000 | 🟢 Good |
+| September | $1,200,000 | 🔥 Peak |
+| October | $800,000 | 🟡 Moderate |
+| November | $1,200,000 | 🔥 Peak |
+| December | $1,300,000 | 🔥 Peak |
+
+**Key Monthly Insights:**
+- 🔥 **Peak Month**: December ($1.3M) - Holiday season
+- 📉 **Lowest Month**: February ($0.2M) - Post-holiday dip
+- 📈 **Best Quarter**: Q4 (Oct-Dec) with $3.3M total
+
+---
+
+### 📊 Weekly Sales Highlights
+
+| Top Weeks | Sales | Month |
+|:---------:|:-----:|:-----:|
+| Week 100 | $650,000 | December |
+| Week 99 | $640,000 | December |
+| Week 98 | $630,000 | December |
+| Week 97 | $620,000 | November |
+| Week 96 | $610,000 | November |
+| Week 95 | $600,000 | November |
+
+**Key Weekly Insights:**
+- 🏆 **Highest Week**: Week 100 ($650K)
+- 📈 **Growth**: 3,150% increase from Week 1 to Week 100
+- 🎯 **Peak Season**: Weeks 90-100 (Q4 holiday period)
