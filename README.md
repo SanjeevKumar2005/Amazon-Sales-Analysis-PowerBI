@@ -218,19 +218,9 @@ Contains 27 records of Men Shoes products with the following fields:
 | Q1 + Reviews > 500 | Q1 products with 500+ reviews |
 
 ---
-┌─────────────────────┐ ┌─────────────────────┐
-│ Product Category ▼ │ │ Quarter ▼ │
-├─────────────────────┤ ├─────────────────────┤
-│ ☑ All Categories │ │ ☑ All │
-│ ☐ Camera │ │ ☐ Q1 (Jan-Mar) │
-│ ☐ Men Shoes │ │ ☐ Q2 (Apr-Jun) │
-│ ☐ Car Accessories │ │ ☐ Q3 (Jul-Sep) │
-│ ☐ Mobile & Access │ │ ☐ Q4 (Oct-Dec) │
-└─────────────────────┘ └─────────────────────┘
 
 
 ---
-
 ### ✅ Benefits
 
 - **Real-time filtering** - Instant dashboard updates
