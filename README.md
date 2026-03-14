@@ -194,3 +194,20 @@ Contains 27 records of Men Shoes products with the following fields:
 - 🏆 **Highest Week**: Week 100 ($650K)
 - 📈 **Growth**: 3,150% increase from Week 1 to Week 100
 - 🎯 **Peak Season**: Weeks 90-100 (Q4 holiday period)
+
+  ## 🎛️ Interactive Slicers & Filters
+
+### 📌 Available Slicers
+
+| Slicer | Options | Purpose |
+|--------|---------|---------|
+| **Product Category** | All, Audio Video, Camera, Car Accessories, Laptop, Men Clothes, Men Shoes, Mobile & Accessories | Filter by product type |
+| **Quarter (Qtr)** | All, Q1, Q2, Q3, Q4 | Filter by time period |
+| **Order Date** | Date range selector | Custom date filtering |
+| **Price Range** | Min-Max slider | Filter by price |
+| **Reviews** | 0-100, 100-500, 500-1000, 1000+ | Filter by review count |
+
+---
+
+### 🔄 How They Work
+
