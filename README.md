@@ -292,4 +292,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 📧 Contact
 
-Sanjeev Kumar Singh.sanjeevkr12330@gmail.com
+Sanjeev Kumar Singh   Mail-sanjeevkr12330@gmail.com
