@@ -20,11 +20,11 @@ YTD Reviews 19.42M
 Sales Distribution by Category
 
 Category YTD Sales QTD Sales % of Total Sales
-👟 Men Shoes $940,266 $325,090 43.18%
-📷 Camera $492,521 $188,381 22.62%
-👔 Men Clothes $357,644 $136,700 16.42%
-🚗 Car Accessories $237,290 $91,359 10.90%
-🧸 Toys $110,839 $30,382 5.09%
-📱 Mobile & Accessories $39,178 $39,178 1.80%
-TOTAL $2,177,738 $811,090 100%
+  👟 Men Shoes $940,266 $325,090 43.18%
+  📷 Camera $492,521 $188,381 22.62%
+  👔 Men Clothes $357,644 $136,700 16.42%
+  🚗 Car Accessories $237,290 $91,359 10.90%
+  🧸 Toys $110,839 $30,382 5.09%
+  📱 Mobile & Accessories $39,178 $39,178 1.80%
+  TOTAL $2,177,738 $811,090 100%
 
